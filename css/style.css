@@ -1,0 +1,463 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Roboto Condensed', sans-serif;
+}
+
+/* section1 styling */
+.renovate-your-design{
+    background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(../images/homenew.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+    
+    
+    
+}
+
+.first img{
+   max-width: 100%;
+   height:auto;
+   object-fit: contain;
+   margin-bottom: 80px;
+}
+
+ 
+
+
+.lifestyle{
+    margin-top: 70px;
+    margin-left: 40px;
+    padding-left: 10px;
+    color:white;
+    margin-top:157px;
+    
+}
+.renovate h1{
+    font-size: 55px;
+
+}
+.sky-blue{
+    position: relative;
+    left: 57px;
+}
+
+
+.sky{
+    width:75%;
+    height:80%;
+    background-color:#0CBCF5; 
+    position: absolute;
+    left:20px;
+    top:-60px;
+}
+.first{
+   
+    position: relative;
+    margin-top: 20%;
+    margin-bottom:57px;
+    left: -61px;
+    top: -9px;
+
+}
+
+/* 
+.bttn a{
+    font-size: 12px;
+   list-style-type: none;
+   text-decoration: none;
+   cursor: pointer;
+} */
+
+
+
+
+/* section2 styling */
+a{
+    cursor: pointer;
+}
+
+.your-design img{
+    max-width: 100%;
+   height:auto;
+   object-fit: contain;
+  
+}
+.your-design{
+    position:relative;
+}
+
+.night{
+    position:absolute;
+    top: -60px;
+    left: 74px;
+}
+.lamp{
+    position:relative;
+    left: 372px;
+    top: 111px;
+}
+
+
+.txt-wrapp
+{
+    margin-left: 90px;
+    margin-top: 107px;
+    margin-right:110px;
+}
+.lamp img{
+
+    
+    left: 372px;
+    top: 83px;
+    margin-bottom:194px;
+}
+
+.design-text
+{
+
+font-size: 20px;
+
+}
+
+
+   /* section3 */
+   .section3{
+    
+    background-color: #0CBCF5;
+}
+
+   .design-title h2:after{
+    content:"";
+    display:block;
+    width:37px;
+    height:3px;
+    background-color: white;
+   margin:20px auto;
+
+}
+ 
+.modeling h2:after{
+    content:"";
+    display:block;
+    width:37px;
+    height:3px;
+    background-color:white;
+   margin:17px auto;
+
+}
+.building h2:after{
+    content:"";
+    display:block;
+    width:37px;
+    height:3px;
+    background-color: white;
+    margin:17px auto;
+   
+
+}
+.icon{
+    background-color: #0CBCF5;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
+.lorem{
+    padding-bottom: 112px;
+}
+.design-build{
+    padding-left: 45px;
+    font-size: 19px;
+
+}
+.building{
+    margin-right:50px;
+    font-size: 19px;
+}
+.modeling{
+    padding-left:22px;
+    padding-right: 22px;
+    font-size: 19px;
+}
+
+
+
+/* section4 */
+.our-history{
+    background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(../images/village.PNG);
+
+}
+.village-wrappe{
+    background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(../images/village.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    
+
+}
+.home1{
+    position: relative;
+    left:230px;
+}
+.home1 img{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.history-text{
+    margin-top: 192px;
+    margin-right: 120px;
+    font-size: 17px;
+    
+}
+/* section 5 */
+.section5{
+    margin-bottom: 101px;
+}
+.boy-img img{
+    border-radius: 50%;
+    width:40%;
+   
+} 
+.boy-img{
+    margin-top: 39px;
+    margin-bottom: 91px;
+}
+.company h2{
+    margin-bottom: 22px;
+}
+.company{
+    font-size: 18px;
+}
+.flowerpots img{
+    width:90%;
+    margin-top: 46px;
+    margin-left: 59px;
+}
+.leaves img{
+    width:60%;
+    opacity: 0.5;
+    margin-top: 26px;
+    margin-left: 190px;
+}
+.three-img{
+    position:relative;
+}
+.leaves{
+    position: absolute;
+    top: 140px;
+    
+}
+
+.flowerpots{
+    position: absolute;
+    width:80%;
+    background-color: #0CBCF5;
+    top: -88px;
+} 
+
+
+
+/* section 6 */
+.homeicon img{
+    width:50%;
+    margin-left: 5px;
+}
+
+.awardswon img{
+    width:50%;
+}
+.happyclient img{
+    width:41%;
+}
+.completeproject img{
+    width:50%;
+}
+.homeicon,.awardswon,.happyclient,.completeproject{
+margin-top: 68px;
+    margin-bottom: 63px;
+
+
+
+}
+.merge1{
+    position:relative;
+}
+.homeicndetail1{
+    position:relative;
+    
+
+    top: -176px;
+    left: 34px;
+
+}
+.homeicndetail1 h2{
+    margin-left: 13px;
+}
+.wrapped img{
+   opacity:0.3;
+}
+.homeicndetail2{
+    position:relative;
+    
+
+    top: -176px;
+    left: 34px;
+
+}
+.homeicndetail2 h2{
+  margin-left: 14px;
+}
+.homeicndetail3{
+    position:relative;
+    
+
+    top: -176px;
+   
+    left: 8px;
+
+}
+.homeicndetail3 h2{
+    margin-left: 9px;
+}
+.homeicndetail4{
+    position:relative;
+    top: -176px;
+    left: 34px;
+
+}
+
+.homeicndetail4 h2{
+margin-left: 3px;
+}
+
+.homeicndetail4 p{
+    margin-left: -30px;
+}
+.section6{
+    border-top: 15px solid#0CBCF5;
+}
+
+/* section7 */
+.section7 img{
+   max-width: 90%;
+    max-height: 50%;
+    object-fit: cover;
+   
+   
+}
+
+.section7{
+ 
+    background-color: #EEEEEE;
+}
+.contnent5 h1{
+    margin-top: 129px;
+}
+.section7 .img7{
+ margin-bottom: 50px;
+}
+ /* section 8 */
+.section8 {
+   margin: 50px;
+}
+ 
+/* section 9 */
+    .footerimg
+    {
+        margin-top: 97px;
+    margin-bottom: 97px;
+}
+    
+.section9 a:hover {
+        
+        color:white;
+    }
+.bttn a:hover {
+        
+    color:white;
+    background-color:#0CBCF5;
+    list-style: none;
+    text-decoration: none;
+}
+.bttn {
+    
+    position: relative;
+}
+.bttn a{
+    text-decoration: none;
+}
+
+@media(max-width:768px){
+    .lamp{
+        right: 0px;
+   
+    bottom: 0px;
+    top: 71px;
+    left: 7px;
+    }
+    .txt-wrapp
+    {
+        margin-bottom: 33px;
+    }
+    .home1 {
+        position: relative;
+        left: 0px;
+        
+    }
+    .home1 img{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 70%;
+    margin-left: 64px;
+    }
+    .sky{
+        left: 80px;
+    }
+    .lamp img{
+        width:60%;
+    margin-left: 87px;
+    margin-bottom: 60px;
+    }
+    .sky-blue {
+        position: relative;
+        left: 13px;
+    }
+    .leaves img{
+        margin-left: 151px;
+    }
+    .company p{
+        margin-bottom: 100px;
+    }
+    .homeicon
+    {
+        margin-top: 228px;
+    }
+    .homeicndetail1{
+        left:11px;
+    }
+    .homeicndetail2{
+        left:13px;
+    }
+    .homeicndetail4{
+        left:7px;
+    }
+    .history-text{
+        margin-bottom: 14px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
